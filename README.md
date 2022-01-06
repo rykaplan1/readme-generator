@@ -17,6 +17,7 @@ Download and access using the appropriate path.
 ## Usage
 
 Run with node in the command line terminal using the appropriate path.
+![Untitled_ Jan 6, 2022 5_11 PM](https://user-images.githubusercontent.com/89349342/148465474-264bf1cb-67e9-43d6-ba1c-1561253e0c76.gif)
 
 ## Questions
 
